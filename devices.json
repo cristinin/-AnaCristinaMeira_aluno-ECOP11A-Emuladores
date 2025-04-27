@@ -1,0 +1,16 @@
+[
+    {
+        "device_id": "ABCDEF1234567890",
+        "payload": "Temperatura:25.7",
+        "appeui": "70B3D57ED0012345",
+        "appekey": "00112233445566778899AABBCCDDEEFF",
+        "deveui": "1234567890ABCDEF"
+    },
+    {
+        "device_id": "ABCDEF1234567891",
+        "payload": "Umidade:32.5",
+        "appeui": "70B3D57ED0012345",
+        "appekey": "00112233445566778899AABBCCDDEEFF",
+        "deveui": "1234567890ABCDE1"
+    }
+]
